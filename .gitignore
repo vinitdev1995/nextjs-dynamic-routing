@@ -1,0 +1,16 @@
+/node_modules
+/build
+.idea/
+.idea
+/dist
+dist/
+dist
+*.log
+logs/
+yarn-error.log
+package.json.lock
+package-lock.json
+.vscpde
+**.env
+**.env.*
+*.zip
